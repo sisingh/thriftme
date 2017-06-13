@@ -1,4 +1,5 @@
-namespace java tutorial.arithmetic.gen  // define namespace for java code
+//namespace java tutorial.arithmetic.gen  // define namespace for java code
+namespace java com.mycompany.thriftme  //define namespace for java code
 
 typedef i64 long
 typedef i32 int
